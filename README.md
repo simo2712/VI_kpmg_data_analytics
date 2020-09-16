@@ -5,8 +5,13 @@
 </p>
 
 ## Introduction
-This Virtual Internship is a simulation of real tasks that KPMG are facing daily.  
-Sprocket Central Pty Ltd (fictional company), a medium-size bikes & cycling accessories organization, need help to find meaningful insights in their transactions and customers dataset.
+This Virtual Internship is a simulation of real tasks that KPMG are facing daily. 
+Sprocket Central Pty Ltd (fictional company), a medium-size bikes & cycling accessories organization, need help to find meaningful insights in their datasets. These insights are useful for marketing to better target customers.
+
+The structure of the project is divided into three main phases:
+Data Quality Assessment
+Data Insights
+Data Insights and Presentation
 
 
 

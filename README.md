@@ -23,4 +23,4 @@ The datasets shared are in an Excel file, in different sheets. These datasets ar
 ## Task 1 - Data Quality Assessment
 The goal of this task is to inspect the various datasets to assess the quality of data. You have to draft an email to the client with recommendations on how to mitigate the issues and clean data.  
   
-In this folder [Task_1](../../VI_kpmg_data_analytics/Task_1)
+In this folder [Task_1](../../tree/master/Task_1)

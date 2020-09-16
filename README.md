@@ -5,8 +5,8 @@
 </p>
 
 ## Introduction
-This Virtual Internship is a simulation of real tasks that KPMG are facing daily. 
-Sprocket Central Pty Ltd (fictional company), a medium-size bikes & cycling accessories organization, need help to find meaningful insights in their datasets. These insights are useful for marketing to better target customers.  
+This Virtual Internship is a simulation of a business case similar to what KPMG faces daily.   
+Sprocket Central Pty Ltd (fictional company), a medium-size bikes & cycling accessories organization, need help to find meaningful insights in their datasets. These insights are useful for marketing to better target the adversting campaigns on new customers.  
   
 The structure of the project is divided into three main tasks:
 1. Data Quality Assessment
@@ -20,4 +20,7 @@ The datasets shared are in an Excel file, in different sheets. These datasets ar
 3. **CustomerAddress** --> the customers' address and the property valuation
 4. **NewCustomerList** --> new customers with features and addresses
 
-
+## Task 1 - Data Quality Assessment
+The goal of this task is to inspect the various datasets to assess the quality of data. You have to draft an email to the client with recommendations on how to mitigate the issues and clean data.  
+  
+In this folder [Task_1](../../Task_1)

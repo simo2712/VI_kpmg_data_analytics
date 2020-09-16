@@ -15,9 +15,9 @@ The structure of the project is divided into three main tasks:
   
 ### Datasets
 The datasets shared are in an Excel file, in different sheets. These datasets are:
-1. Transactions --> customer transactions in a certain range of dates
-2. CustomerDemographic --> the customer features like "gender", "job title", "job_industry", etc..
-3. CustomerAddress --> the customers' address and the property valuation
-4. NewCustomerList --> new customers with features and addresses
+1. **Transactions** --> customer transactions in a certain range of dates
+2. **CustomerDemographic** --> the customer features like "gender", "job title", "job_industry", etc..
+3. **CustomerAddress** --> the customers' address and the property valuation
+4. **NewCustomerList** --> new customers with features and addresses
 
 
